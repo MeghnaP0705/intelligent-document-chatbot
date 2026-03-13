@@ -1,0 +1,10 @@
+streamlit>=1.32.2
+langchain>=0.1.13
+langchain-community>=0.0.29
+langchain-core>=0.1.33
+langchain-openai>=0.0.8
+langchain-google-genai>=1.0.1
+faiss-cpu>=1.8.0
+pypdf>=4.1.0
+python-dotenv>=1.0.1
+duckduckgo-search>=5.2.2

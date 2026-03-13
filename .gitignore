@@ -1,0 +1,11 @@
+# Python environments
+venv/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# User Data
+data/
+*.pdf
