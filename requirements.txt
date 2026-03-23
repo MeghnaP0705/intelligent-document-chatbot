@@ -11,3 +11,4 @@ duckduckgo-search>=5.2.2
 langchain-huggingface
 sentence-transformers
 ddgs
+google-generativeai
