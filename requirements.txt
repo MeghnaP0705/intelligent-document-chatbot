@@ -9,3 +9,4 @@ pypdf>=4.1.0
 python-dotenv>=1.0.1
 duckduckgo-search>=5.2.2
 langchain-huggingface
+sentence-transformers
